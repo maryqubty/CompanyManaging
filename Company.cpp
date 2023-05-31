@@ -1,5 +1,4 @@
-// Nasem Sawaid 209290733
-// Mary Qubty 206528275
+
 
 #include "Company.h"
 #include "iostream"
